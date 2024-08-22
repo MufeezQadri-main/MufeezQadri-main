@@ -10,9 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  https://github-readme-stats.vercel.app/api?username=MufeezQadri-main&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  https://github-readme-streak-stats.herokuapp.com/?user=MufeezQadri-main&theme=dark&hide_border=false)<br/>
-  https://github-readme-stats.vercel.app/api/top-langs/?username=MufeezQadri-main&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 <div align="left">
   <a href="https://www.linkedin.com/in/mufeezqadri/" target="_blank">
